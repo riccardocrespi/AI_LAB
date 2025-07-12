@@ -1,6 +1,6 @@
 # AI_LAB - Hypoxia Detection in Cancer Cells via RNA-Seq Analysis
 
-This repository contains the code and documentation for a project developed as part of the *AI Lab* course at **Bocconi University**. The objective is to classify cancer cells as hypoxic or normoxic by analyzing their gene expression profiles obtained through single-cell RNA sequencing.
+This repository contains the code and documentation for a project developed as part of the AI Lab course at **Bocconi University**. The objective is to classify cancer cells as hypoxic or normoxic by analyzing their gene expression profiles obtained through single-cell RNA sequencing.
 
 ## 🧬 Project Overview
 
@@ -17,7 +17,7 @@ The dataset consists of `.csv` tables where:
 - rows represent genes, identified by unique gene symbols;
 - data were obtained using both Smart-Seq and Drop-Seq techniques.
 
-> *Note: Raw data is not included due to size/privacy constraints. See the notebook for preprocessing steps.*
+> **Note: Raw data is not included due to privacy constraints.**
 
 ## 📊 Methods
 
